@@ -29,8 +29,6 @@
     - [Preparations](#preparations)
     - [Downloading and Installing](#downloading-and-installing)
     - [Problems with Wabbajack](#problems-with-wabbajack)
-  - [Steam Deck](#steam-deck)
-  - [Skyrim GOG](#skyrim-gog)
 - [Updating](#updating)
 - [Startup](#startup)
 - [Issues](#issues)
