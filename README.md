@@ -115,14 +115,6 @@ The download and installation process can take a little while (an hour or more) 
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress. Seriously, simply retrying the Wabbajack download fixes most problems. If you still cannot figure out the issue, please check in our support forum or the official Wabbajack discord.
 
-## Steam Deck
-
-This modlist can be played on Steam Deck and special care has been taken to make sure performance is acceptable there. You can view the steam deck install instructions [here](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Skyrim:-Sovngarde) after you finish the normal install.
-
-## Skyrim GOG
-
-This modlist can be played on the GOG version of Skyrim. You will need to do a couple of extra steps which are listed [here](GOG.md)
-
 # Updating
 
 If this Modlist receives an update, please check the [changelog](CHANGELOG.md) before doing anything. Always backup your saves or start a new game after updating.
