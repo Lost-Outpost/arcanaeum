@@ -31,8 +31,6 @@ Sovngarde is a lightweight Legacy of the Dragonborn modlist with a minimal yet b
 
 You can browse the full list contents [here](https://loadorderlibrary.com/lists/sovngarde-a-dragonborns-legacy) if you want to know exactly what you're getting.
 
-You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) page.
-
 ## Minimum Specs
 Users have reported running the list fine with as low as a Ryzen 1300x and a GTX960. You may need to adjust settings with systems this low but it should run fine and still look great!
 
