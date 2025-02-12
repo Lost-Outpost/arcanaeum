@@ -25,18 +25,18 @@
 
 # Introduction
 
-Sovngarde is a lightweight Legacy of the Dragonborn modlist with a minimal yet beautiful visual overhaul and the highest quality quest content. Included is full creation club support and a suite of balance mods to tie it all together with my own cut of simonrim.
+Arcanaeum is a lightweight Legacy of the Dragonborn modlist with a minimal yet beautiful visual overhaul and the highest quality quest content. Included is full creation club support and a suite of balance mods to tie it all together with my own cut of simonrim.
 
 ## List Contents
 
-You can browse the full list contents [here](https://loadorderlibrary.com/lists/sovngarde-a-dragonborns-legacy) if you want to know exactly what you're getting.
+You can browse the full list contents [here](https://loadorderlibrary.com/lists/arcanaeum-a-lightweight-modlist) if you want to know exactly what you're getting.
 
 ## Minimum Specs
 Users have reported running the list fine with as low as a Ryzen 1300x and a GTX960. You may need to adjust settings with systems this low but it should run fine and still look great!
 
 ## Community
 
-Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Lost-Outpost/arcanaeum/issues) section of the Sovngarde GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Lost Outpost Discord server's support channel.
+Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Lost-Outpost/arcanaeum/issues) section of the Arcanaeum GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Lost Outpost Discord server's support channel.
 
 ## Skyrim: Anniversary Edition
 
@@ -87,9 +87,9 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 The download and installation process can take a little while (an hour or more) depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Sovngarde"
+1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Arcanaeum"
 2. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish
-3. Download the latest release of `Sovngarde` from the Wabbajack Browse Modlists page
+3. Download the latest release of `Arcanaeum` from the Wabbajack Browse Modlists page
 4. Select the created folder in step 1 as your installation folder
 5. Select the created folder in step 2 as your downloads folder
 6. Click the Go/Begin button and wait for Wabbajack to finish
@@ -112,13 +112,13 @@ Updating is like installing. You only have to make sure that you select the same
 
 Open the installation folder and double click on the program called `ModOrganizer.exe`.
 
-Make sure the dropdown box on the right is set to `Sovngarde` and press the Run button.
+Make sure the dropdown box on the right is set to `Arcanaeum` and press the Run button.
 
 # Issues
 
 If you find an issue, you can see if it is already on the list of [known issues](HELP.md), which also documents solutions and workarounds.
 
-For issues that aren't yet [known](HELP.md), you can provide details in the [Sovngarde Github](https://github.com/Lost-Outpost/septimus/issues). Please provide as much info as you can (screenshots are great).
+For issues that aren't yet [known](HELP.md), you can provide details in the [Arcanaeum Github](https://github.com/Lost-Outpost/septimus/issues). Please provide as much info as you can (screenshots are great).
 
-Finally, free feel to hop on the Sovngarde Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
+Finally, free feel to hop on the Arcanaeum Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
 
