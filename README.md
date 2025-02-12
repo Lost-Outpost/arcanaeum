@@ -25,7 +25,7 @@
 
 # Introduction
 
-Arcanaeum is a lightweight Legacy of the Dragonborn modlist with a minimal yet beautiful visual overhaul and the highest quality quest content. Included is full creation club support and a suite of balance mods to tie it all together with my own cut of simonrim.
+Arcanaeum is a lightweight and elegant modlist containing carefully chosen bug fixes, gameplay balance changes and new content that can be customized to your liking.. It's intended to have decent longevity and not require many updates, especially those that could cause you to need to start over.
 
 ## List Contents
 
