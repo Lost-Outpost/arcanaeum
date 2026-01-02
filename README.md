@@ -116,9 +116,7 @@ Make sure the dropdown box on the right is set to `Arcanaeum` and press the Run 
 
 # Issues
 
-If you find an issue, you can see if it is already on the list of [known issues](HELP.md), which also documents solutions and workarounds.
-
-For issues that aren't yet [known](HELP.md), you can provide details in the [Arcanaeum Github](https://github.com/Lost-Outpost/septimus/issues). Please provide as much info as you can (screenshots are great).
+For issues, you can provide details in the [Arcanaeum Github](https://github.com/Lost-Outpost/septimus/issues). Please provide as much info as you can (screenshots are great).
 
 Finally, free feel to hop on the Arcanaeum Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
 
